@@ -1,0 +1,4 @@
+data = []
+
+
+print(type(data))
